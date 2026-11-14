@@ -1,0 +1,121 @@
+﻿CourseID,CourseCode,CourseName,Credits,DeptID,CourseLevel,Description
+200,CS340,Linear Algebra,2,1,400,Description of Linear Algebra
+201,BA214,Intro to Programming,4,2,200,Description of Intro to Programming
+202,CS495,Business Ethics,3,1,400,Description of Business Ethics
+203,ENG114,Algorithms,3,3,200,Description of Algorithms
+204,CS155,Discrete Mathematics,3,1,300,Description of Discrete Mathematics
+205,IT361,Algorithms,3,5,200,Description of Algorithms
+206,CS366,Circuit Analysis,4,1,150,Description of Circuit Analysis
+207,IT260,Numerical Analysis,2,5,300,Description of Numerical Analysis
+208,ENG306,Differential Equations,3,3,200,Description of Differential Equations
+209,MTH446,Microeconomics,2,4,300,Description of Microeconomics
+210,ENG246,Statistics,3,3,300,Description of Statistics
+211,BA361,Operating Systems,4,2,200,Description of Operating Systems
+212,EN424,Discrete Mathematics,3,6,100,Description of Discrete Mathematics
+213,EN258,Linear Algebra,200,6,200,Description of Linear Algebra
+214,CS333,Art History,4,1,200,Description of Art History
+215,MTH224,Calculus I,4,4,100,Description of Calculus I
+216,CS498,Art History,2,1,200,Description of Art History
+217,MTH125,Web Development,2,4,100,Description of Web Development
+218,EN371,Web Development,4,6,300,Description of Web Development
+219,IT468,Fluid Mechanics,4,5,400,Description of Fluid Mechanics
+220,BA480,Thermodynamics,3,2,400,Description of Thermodynamics
+221,EN241,Macroeconomics,4,6,400,Description of Macroeconomics
+222,CS465,Marketing Fundamentals,2,1,300,Description of Marketing Fundamentals
+223,CS170,Calculus I,2,1,400,Description of Calculus I
+224,CS312,Art History,3,1,400,Description of Art History
+225,MTH299,Fluid Mechanics,4,4,100,Description of Fluid Mechanics
+226,MTH344,Intro to Programming,3,4,300,Description of Intro to Programming
+227,MTH375,Microeconomics,4,4,200,Description of Microeconomics
+228,MTH114,Sociology Basics,3,4,400,Description of Sociology Basics
+229,BA418,Web Development,2,2,400,Description of Web Development
+230,CS429,Art History,2,1,400,Description of Art History
+231,ENG208,Digital Design,3,3,300,Description of Digital Design
+232,MTH229,Human Resources,150,4,400,Description of Human Resources
+233,CS499,Electromagnetics,4,1,100,Description of Electromagnetics
+234,BA110,Discrete Mathematics,2,2,200,Description of Discrete Mathematics
+235,IT211,Digital Design,4,5,300,Description of Digital Design
+236,IT482,Differential Equations,2,5,200,Description of Differential Equations
+237,CS259,Mobile Apps,4,1,400,Description of Mobile Apps
+238,CS403,Differential Equations,4,1,200,Description of Differential Equations
+239,EN407,Organizational Behavior,2,6,100,Description of Organizational Behavior
+240,ENG135,Computer Networks,200,3,300,Description of Computer Networks
+241,ENG425,Fluid Mechanics,3,3,200,Description of Fluid Mechanics
+242,EN238,Discrete Mathematics,4,6,400,Description of Discrete Mathematics
+243,IT237,Financial Accounting,2,5,100,Description of Financial Accounting
+244,MTH391,Discrete Mathematics,4,4,400,Description of Discrete Mathematics
+245,ENG193,Operating Systems,2,3,300,Description of Operating Systems
+246,IT459,Fluid Mechanics,3,5,100,Description of Fluid Mechanics
+247,BA468,Art History,3,2,200,Description of Art History
+248,MTH329,Organizational Behavior,2,4,100,Description of Organizational Behavior
+249,BA256,Numerical Analysis,4,2,300,Description of Numerical Analysis
+250,MTH481,Web Development,3,4,300,Description of Web Development
+251,ENG218,Algorithms,4,3,200,Description of Algorithms
+252,EN194,Statistics,2,6,400,Description of Statistics
+253,IT405,Marketing Fundamentals,2,5,200,Description of Marketing Fundamentals
+254,ENG107,Differential Equations,4,3,200,Description of Differential Equations
+255,IT249,Differential Equations,2,5,200,Description of Differential Equations
+256,MTH274,Calculus II,2,4,300,Description of Calculus II
+257,CS305,Operating Systems,2,1,100,Description of Operating Systems
+258,ENG143,Linear Algebra,2,3,400,Description of Linear Algebra
+259,BA497,Computer Networks,3,2,400,Description of Computer Networks
+260,IT319,Marketing Fundamentals,4,5,100,Description of Marketing Fundamentals
+261,BA420,Statistics,3,2,100,Description of Statistics
+262,CS180,Intro to Programming,3,1,400,Description of Intro to Programming
+263,CS218,Marketing Fundamentals,4,1,300,Description of Marketing Fundamentals
+264,EN219,Circuit Analysis,3,6,200,Description of Circuit Analysis
+265,EN176,Circuit Analysis,150,6,200,Description of Circuit Analysis
+266,IT247,Digital Design,2,5,400,Description of Digital Design
+267,ENG356,Web Development,3,3,150,Description of Web Development
+268,IT228,Intro to Programming,2,5,200,Description of Intro to Programming
+269,IT400,Electromagnetics,2,5,300,Description of Electromagnetics
+270,BA340,Computer Networks,4,2,400,Description of Computer Networks
+271,IT323,Probability,3,5,100,Description of Probability
+272,ENG443,Algorithms,2,3,300,Description of Algorithms
+273,EN305,Human Resources,4,6,100,Description of Human Resources
+274,ENG159,Macroeconomics,3,3,100,Description of Macroeconomics
+275,MTH127,Statistics,4,4,300,Description of Statistics
+276,MTH489,Data Structures,2,4,300,Description of Data Structures
+277,MTH457,Operating Systems,2,4,100,Description of Operating Systems
+278,BA463,Calculus II,3,2,100,Description of Calculus II
+279,CS336,Electromagnetics,2,1,200,Description of Electromagnetics
+280,IT461,Business Ethics,3,5,400,Description of Business Ethics
+281,IT174,Sociology Basics,2,5,200,Description of Sociology Basics
+282,MTH274,Circuit Analysis,4,4,300,Description of Circuit Analysis
+283,ENG400,Mobile Apps,4,3,400,Description of Mobile Apps
+284,MTH276,Financial Accounting,4,4,400,Description of Financial Accounting
+285,BA457,Linear Algebra,4,2,400,Description of Linear Algebra
+286,CS262,Microeconomics,3,1,400,Description of Microeconomics
+287,EN177,Operating Systems,2,6,200,Description of Operating Systems
+288,CS325,Algorithms,999999,1,400,Description of Algorithms
+289,BA138,Operating Systems,3,2,300,Description of Operating Systems
+290,CS268,Thermodynamics,4,1,400,Description of Thermodynamics
+291,MTH377,Data Structures,4,4,100,Description of Data Structures
+292,ENG216,Microeconomics,2,3,400,Description of Microeconomics
+293,EN151,Digital Design,2,6,150,Description of Digital Design
+294,ENG291,Art History,2,3,200,Description of Art History
+295,BA187,Calculus II,2,2,400,Description of Calculus II
+296,IT173,Linear Algebra,3,5,300,Description of Linear Algebra
+297,MTH247,Numerical Analysis,999,4,200,Description of Numerical Analysis
+298,MTH453,Business Ethics,3,4,300,Description of Business Ethics
+299,MTH154,Linear Algebra,3,4,300,Description of Linear Algebra
+300,ENG111,Human Resources,4,3,400,Description of Human Resources
+301,EN498,Microeconomics,2,6,400,Description of Microeconomics
+302,BA410,Organizational Behavior,3,2,200,Description of Organizational Behavior
+303,EN486,Microeconomics,4,6,200,Description of Microeconomics
+304,EN120,Marketing Fundamentals,3,6,100,Description of Marketing Fundamentals
+305,CS251,Financial Accounting,4,1,400,Description of Financial Accounting
+306,IT287,Computer Networks,4,5,300,Description of Computer Networks
+307,MTH251,Microeconomics,3,4,-50,Description of Microeconomics
+308,EN470,Numerical Analysis,3,6,300,Description of Numerical Analysis
+309,ENG374,Algorithms,3,3,300,Description of Algorithms
+310,IT295,Human Resources,4,5,300,Description of Human Resources
+311,CS417,Fluid Mechanics,4,1,300,Description of Fluid Mechanics
+312,CS425,Human Resources,3,1,300,Description of Human Resources
+313,CS119,Marketing Fundamentals,3,1,100,Description of Marketing Fundamentals
+314,BA298,Digital Design,3,2,400,Description of Digital Design
+315,MTH435,Algorithms,3,4,400,Description of Algorithms
+316,EN289,Statistics,3,6,400,Description of Statistics
+317,CS451,Psychology 101,-1,1,300,Description of Psychology 101
+318,MTH146,Numerical Analysis,-50,4,100,Description of Numerical Analysis
+319,BA135,Human Resources,4,2,200,Description of Human Resources

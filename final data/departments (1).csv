@@ -1,0 +1,7 @@
+﻿DeptID,DeptName,DeptCode,Dean,Location,Phone,EstablishedYear
+1,Computer Science,CS,Dr. Ahmad Yusof,Block A,03-11110001,1985
+2,Business Administration,BA,Dr. Sarah Tan,Block B,03-11110002,1990
+3,Engineering,ENG,Dr. Raj Kumar,Block C,03-11110003,1980
+4,Mathematics,MTH,Dr. Lee Wei,Block D,03-11110004,1975
+5,Information Technology,IT,Dr. Nurul Ain,Block E,03-11110005,2000
+6,English,EN,Dr. Jane Doe,Block F,03-11110006,1970

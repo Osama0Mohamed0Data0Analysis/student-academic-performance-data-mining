@@ -1,0 +1,31 @@
+﻿InstructorID,FirstName,LastName,Email,DeptID,Rank,HireDate,Phone,Specialization
+100,Lee,Yusof,lee.yusof4657@university.edu,6,Assistant Professor,2010-12-26,242-854-2679,Programming
+101,Sarah,Yusof,sarah.yusof9279@university.edu,1,Associate Professor,2010-06-08,716-127-4257,Programming
+102,Aisha,Li,aisha.li6574@university.edu,1,Associate Professor,2018-12-16,384-259-4527,AI
+103,Laila,Ali,,5,Assistant Professor,2001-12-12,649-227-7201,Database
+104,Raj,Tan,raj.tan2307@university.edu,6,Associate Professor,2012-12-24,975-338-2654,Database
+105,Laila,Ali,laila.ali3803@university.edu,2,Assistant Professor,2003-03-15,646-846-5010,Business
+106,Sara,Omar,sara.omar4752@university.edu,6,Assistant Professor,2002-07-05,,Programming
+107,Khaled,Smith,khaled.smith5040@university.edu,2,Assistant Professor,2006-04-06,862-674-9830,Programming
+108,Laila,Omar,laila.omar1771@university.edu,2,Lecturer,2004-01-29,981-212-3504,AI
+109,Khaled,Salah,khaled.salah5119@university.edu,5,Lecturer,2023-09-26,666-981-1188,Engineering
+110,Chen,Hassan,chen.hassan3591@university.edu,1,Assistant Professor,2019-07-03,564-103-5315,AI
+111,Fatimah,Williams,fatimah.williams7126@university.edu,5,Associate Professor,2006-11-09,880-265-9837,Mathematics
+112,Omar,Jones,omar.jones6038@university.edu,1,Professor,2016-04-13,345-159-4946,Programming
+113,Raj,Brown,raj.brown3705@university.edu,2,Associate Professor,2021-04-27,371-640-7932,Business
+114,Priya,Zahra,priya.zahra9479@university.edu,4,Assistant Professor,2019-08-26,562-223-5061,Database
+115,Aisha,Omar,not-an-email,1,Professor,2002-08-22,169-132-6413,Mathematics
+116,Aisha,Jones,aisha.jones4119@university.edu,2,Lecturer,2018-04-05,196-199-8062,AI
+117,Lee,Tan,lee.tan5073@university.edu,4,Assistant Professor,2004-11-25,296-294-9786,Database
+118,Raj,Smith,raj.smith9856@university.edu,5,Professor,2002-04-08,956-115-2528,Programming
+119,Mohamed,Nair,mohamed.nair7209@university.edu,4,Professor,2007-05-21,102-499-5345,Business
+120,Sara,Jones,user@.com,2,Associate Professor,2013-04-23,159-693-9883,Engineering
+121,Ali,Lim,ali.lim2122@university.edu,1,Professor,2008-05-02,709-169-4853,Mathematics
+122,Youssef,Tan,youssef.tan9565@university.edu,5,Professor,2018-10-21,423-367-4346,Database
+123,Fatimah,Smith,missingdomain.com,3,Professor,2000-06-01,736-676-2638,AI
+124,Hassan,Ali,missingdomain.com,3,Associate Professor,2019-08-28,820-409-9666,Database
+125,Chen,Wei,chen.wei5616@university.edu,1,Associate Professor,2012-03-20,719-315-6617,Programming
+126,Chen,Tan,chen.tan1722@university.edu,1,Lecturer,2012-05-30,103-441-3143,Mathematics
+127,Dina,Brown,dina.brown3442@university.edu,1,Professor,2003-05-17,658-136-7049,Networks
+128,Laila,Tan,laila.tan2684@university.edu,3,Associate Professor,2011-03-12,462-898-7658,Database
+129,David,Lim,david.lim6442@university.edu,4,Professor,2008-01-17,901-521-5065,Engineering

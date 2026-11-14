@@ -1,0 +1,9 @@
+﻿ProgramID,ProgramName,ProgramCode,DeptID,TotalCredits,DurationYears,DegreeLevel
+1,B.Sc. Computer Science,BSCS,1,120,4,Bachelor
+2,B.Sc. Information Technology,BSIT,5,120,4,Bachelor
+3,B.Sc. Software Engineering,BSSE,3,130,4,Bachelor
+4,B.B.A. Business Administration,BBA,2,120,4,Bachelor
+5,B.Sc. Mathematics,BSMTH,4,120,4,Bachelor
+6,M.Sc. Computer Science,MSCS,1,42,2,Master
+7,Diploma in Computer Science,DIPCS,1,60,2,Diploma
+8,Certificate in IT,CERTIT,5,30,1,Certificate
